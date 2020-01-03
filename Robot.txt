@@ -2,4 +2,4 @@ User-agent: *
 Disallow :
 Allow: /
 
-sitemap: 
+sitemap: https://github.com/ala1ahmed/cv-ala-ahmed/blob/master/sitemap.xml
